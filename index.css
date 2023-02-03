@@ -2,7 +2,7 @@ html {
   font-family: "Raleway", sans-serif;
   height: 100vh;
   scrollbar-width: thin;
-  background: rgba(169, 217, 218, 0.203);
+  background: #BFEAF5;
 }
 
 h1 {
@@ -53,6 +53,7 @@ textarea {
 .caja1 {
   resize: none;
   height: 70%;
+  background: #d8dbd958;
 }
 
 .copy{
